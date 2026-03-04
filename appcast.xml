@@ -3,19 +3,23 @@
     <channel>
         <title>Yasin Tahlil Update</title>
         <item>
-            <title>🌟 Versi 1.5.0 - MEGA UPDATE SULTAN</title>
-            <description><![CDATA[
-                <b><font color="#FFD54F">✨ ALHAMDULILLAH, MEGA UPDATE HADIR! ✨</font></b><br/><br/>
-                Nikmati pengalaman aplikasi ala Sultan dengan penambahan fitur luar biasa untuk ibadah dan aktivitas harianmu:<br/><br/>
-                <b><font color="#00BFA5">🚀 FITUR BARU SUPER CANGGIH:</font></b><br/>
-                • 🚤 <b>Radar Ikan Laut:</b> Navigasi kompas real-time untuk nelayan! Kunci titik sarang ikan dengan presisi tinggi.<br/>
-                • 📸 <b>GPS Kamera Sultan:</b> Jepret foto dengan otomatisasi watermark Lokasi, Jam, dan Tanggal.<br/><br/>
-                <b><font color="#39FF14">🛠️ PERBAIKAN KENYAMANAN:</font></b><br/>
-                • 📖 <b>UI Kitab Kuning:</b> Teks terjemahan Yasin & Al-Waqi'ah kini bebas error, spasi sangat rapi, dan lebih nyaman dibaca berlama-lama.<br/>
-                • ⚡ Optimalisasi performa kompas (Anti-Bentrok).<br/><br/>
-                <i>Ayo update sekarang dan rasakan kemewahannya!</i>
-            ]]></description>
-            <pubDate>Thu, 05 Mar 2026 05:30:00 +0700</pubDate>
+            <title>V1.5.0 - MEGA UPDATE SULTAN</title>
+            <description>
+                ALHAMDULILLAH, MEGA UPDATE HADIR!
+
+                Nikmati pengalaman aplikasi ala Sultan dengan penambahan fitur luar biasa untuk ibadah dan aktivitas harianmu:
+
+                FITUR BARU SUPER CANGGIH:
+                • Radar Ikan Laut: Navigasi kompas real-time untuk nelayan! Kunci titik sarang ikan dengan presisi tinggi.
+                • GPS Kamera Sultan: Jepret foto dengan otomatisasi watermark Lokasi, Jam, dan Tanggal.
+
+                PERBAIKAN KENYAMANAN:
+                • UI Kitab Kuning: Teks terjemahan Yasin &amp; Waqi'ah kini bebas error, spasi sangat rapi, dan lebih nyaman dibaca berlama-lama.
+                • Optimalisasi performa kompas (Anti-Bentrok).
+
+                Ayo update sekarang dan rasakan kemewahannya!
+            </description>
+            <pubDate>Thu, 05 Mar 2026 06:00:00 +0700</pubDate>
             <enclosure 
                 url="https://github.com/Yusuf-Ardiansyah/Yasin-Tahlil-Release/releases/latest/download/app-arm64-v8a-release.apk" 
                 sparkle:version="1.5.0+13" 
