@@ -3,21 +3,23 @@
 <channel>
 <title>Yasin Tahlil Update</title>
 <item>
-<title>🌟 V1.5.0 - MEGA UPDATE SULTAN</title>
+<title>🚀 V1.6.0 - UPDATE KAMERA PRO SULTAN</title>
 <description>
-ALHAMDULILLAH, UPDATE HADIR!
+ALHAMDULILLAH, UPDATE TERBARU SUDAH SIAP!
 
-Nikmati fitur Sultan terbaru:
-• Radar Ikan: Navigasi nelayan presisi tinggi.
-• GPS Kamera: Foto otomatis watermark lokasi.
-• UI Baru: Baca Yasin &amp; Waqiah makin rapi.
+Upgrade besar-besaran fitur dokumentasi:
+• Kamera Pro Jernih: Optimasi pixel ratio 1.25x (Foto tajam &amp; tidak pecah).
+• Info GPS Lengkap: Elevasi (MDPL), Kompas, dan Cuaca real-time langsung di foto.
+• UI Watermark Baru: Tema Neon Green yang elegan dan profesional.
+• Auto Preview &amp; Share: Lihat hasil foto langsung dan bagikan ke WhatsApp secepat kilat.
+• Perbaikan Sistem: Sat set 0.1 detik tanpa lag!
 
-Ayo update sekarang juga!
+Segera update untuk pengalaman dokumentasi yang lebih mantap!
 </description>
-<pubDate>Thu, 05 Mar 2026 06:10:00 +0700</pubDate>
+<pubDate>Sat, 07 Mar 2026 01:20:00 +0700</pubDate>
 <enclosure 
 url="https://github.com/Yusuf-Ardiansyah/Yasin-Tahlil-Release/releases/latest/download/app-arm64-v8a-release.apk" 
-sparkle:version="1.5.0+13" 
+sparkle:version="1.6.0+14" 
 sparkle:os="android" 
 type="application/vnd.android.package-archive" />
 </item>
