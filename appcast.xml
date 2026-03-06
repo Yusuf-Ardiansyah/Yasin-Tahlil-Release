@@ -3,7 +3,7 @@
 <channel>
 <title>Yasin Tahlil Update</title>
 <item>
-<title>🚀 V1.6.1 - UPDATE KAMERA PRO SULTAN</title>
+<title>🚀 V1.6.2 - UPDATE KAMERA PRO SULTAN</title>
 <description>
 ALHAMDULILLAH, UPDATE TERBARU SUDAH SIAP!
 
@@ -19,7 +19,7 @@ Segera update untuk pengalaman dokumentasi yang lebih mantap!
 <pubDate>Sat, 07 Mar 2026 01:20:00 +0700</pubDate>
 <enclosure 
 url="https://github.com/Yusuf-Ardiansyah/Yasin-Tahlil-Release/releases/latest/download/app-arm64-v8a-release.apk" 
-sparkle:version="1.6.1+15" 
+sparkle:version="1.6.2+16" 
 sparkle:os="android" 
 type="application/vnd.android.package-archive" />
 </item>
