@@ -3,24 +3,23 @@
 <channel>
 <title>Yasin Tahlil Update</title>
 <item>
-<title>🌟 V1.6.4 - UPDATE SULTAN EDITION (Final Upgrade)</title>
+<title>✨ V1.6.5 - EMERALD SULTAN EDITION (Fixed UI)</title>
 <description>
-ALHAMDULILLAH, VERSI SULTAN 1.6.4+18 SUDAH SIAP!
+ALHAMDULILLAH, VERSI SULTAN 1.6.5+19 SUDAH SIAP!
 
-Membawa pengalaman Dashboard yang jauh lebih mewah:
-• Dashboard Jam Sultan: Jam digital real-time eksklusif.
-• Sultan Cloud Glow: Foto profil Google kini bercahaya mewah.
-• Breathing Splash Screen: Efek cahaya bernafas pada logo pembuka.
-• Fix Kamera Samsung: Lancar jaya saat rotasi horizontal (Landscape).
-• Smart GPS Sat-Set: Anti-stuck loading saat sinyal satelit lemah.
-• Optimasi APK Sehat: Ukuran ramping (37MB) secepat kilat.
+Pembaruan kali ini membawa kenyamanan ekstra pada navigasi:
+• Fix UI Navigasi: Navigasi bawah kini aman dari sistem tombol Android (Anti-Kepotong).
+• Emerald Theme Glow: Warna hijau emerald yang lebih solid dan mewah di seluruh halaman.
+• Dashboard Sultan Fixed: Perbaikan jarak (padding) pada daftar menu agar lebih rapi.
+• Gps Camera Anti-Blank: Preview foto di galeri kini instan dan anti layar putih.
+• Fixed Qiblah & Radar: Posisi kompas lebih presisi tanpa tertutup identitas footer.
 
-Segera update untuk menikmati pengalaman Yasin Tahlil paling premium!
+Update sekarang untuk mendapatkan tampilan yang lebih sempurna dan serasi!
 </description>
-<pubDate>Mon, 09 Mar 2026 03:00:00 +0700</pubDate>
+<pubDate>Tue, 10 Mar 2026 19:00:00 +0700</pubDate>
 <enclosure 
 url="https://github.com/Yusuf-Ardiansyah/Yasin-Tahlil-Release/releases/latest/download/app-arm64-v8a-release.apk" 
-sparkle:version="1.6.4+18" 
+sparkle:version="1.6.5+19" 
 sparkle:os="android" 
 type="application/vnd.android.package-archive" />
 </item>
