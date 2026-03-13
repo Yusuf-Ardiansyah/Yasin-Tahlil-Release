@@ -3,23 +3,23 @@
 <channel>
 <title>Yasin Tahlil Update</title>
 <item>
-<title>✨ V1.6.5 - EMERALD SULTAN EDITION (Fixed UI)</title>
+<title>🚀 V1.7.0 - ULTIMATE INVITATION &amp; BOOKLET EDITION</title>
 <description>
-ALHAMDULILLAH, VERSI SULTAN 1.6.5+19 SUDAH SIAP!
+ALHAMDULILLAH, VERSI SULTAN 1.7.0+20 DENGAN FITUR REVOLUSIONER TELAH HADIR!
 
-Pembaruan kali ini membawa kenyamanan ekstra pada navigasi:
-• Fix UI Navigasi: Navigasi bawah kini aman dari sistem tombol Android (Anti-Kepotong).
-• Emerald Theme Glow: Warna hijau emerald yang lebih solid dan mewah di seluruh halaman.
-• Dashboard Sultan Fixed: Perbaikan jarak (padding) pada daftar menu agar lebih rapi.
-• Gps Camera Anti-Blank: Preview foto di galeri kini instan dan anti layar putih.
-• Fixed Qiblah & Radar: Posisi kompas lebih presisi tanpa tertutup identitas footer.
+Pembaruan masif kali ini menyulap aplikasimu menjadi "Mesin Percetakan Digital":
+• 3 Mode Undangan: Kini mendukung cetak undangan Tahlil, Walimatul Ursy (Pernikahan), dan Acara Umum.
+• Cetak Buku Yasin (Beta): Fitur premium untuk mencetak Buku Yasin berhalaman ganda lengkap dengan foto cover dan teks Arab otomatis!
+• Simpan Ke Galeri (HD): Undangan PDF kini bisa langsung disimpan sebagai gambar PNG berkualitas tinggi (anti-blank hitam) untuk langsung diposting ke WA/IG.
+• Logo Inisial Otomatis: Khusus Walimatul Ursy, inisial nama mempelai akan otomatis menjadi logo monogram elegan di atas undangan jika tanpa foto.
+• Performa Stabil: 100% bersih dari bug dan warning, aplikasi jauh lebih ringan dan mulus.
 
-Update sekarang untuk mendapatkan tampilan yang lebih sempurna dan serasi!
+Update sekarang dan rasakan pengalaman menjadi juragan percetakan digital dari genggamanmu!
 </description>
-<pubDate>Tue, 10 Mar 2026 19:00:00 +0700</pubDate>
+<pubDate>Fri, 13 Mar 2026 20:00:00 +0700</pubDate>
 <enclosure 
 url="https://github.com/Yusuf-Ardiansyah/Yasin-Tahlil-Release/releases/latest/download/app-arm64-v8a-release.apk" 
-sparkle:version="1.6.5+19" 
+sparkle:version="1.7.0+20" 
 sparkle:os="android" 
 type="application/vnd.android.package-archive" />
 </item>
