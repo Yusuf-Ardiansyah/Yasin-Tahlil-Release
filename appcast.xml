@@ -3,23 +3,26 @@
 <channel>
 <title>Yasin Tahlil Update</title>
 <item>
-<title>🚀 V1.7.0 - ULTIMATE INVITATION &amp; BOOKLET EDITION</title>
+<title>🚀 V1.8.0 - EDISI SULTAN: SENJA &amp; KACA PREMIUM</title>
 <description>
-ALHAMDULILLAH, VERSI SULTAN 1.7.0+20 DENGAN FITUR REVOLUSIONER TELAH HADIR!
+ALHAMDULILLAH, VERSI 1.8.0+21 TELAH HADIR DENGAN TAMPILAN MEWAH SULTAN!
 
-Pembaruan masif kali ini menyulap aplikasimu menjadi "Mesin Percetakan Digital":
-• 3 Mode Undangan: Kini mendukung cetak undangan Tahlil, Walimatul Ursy (Pernikahan), dan Acara Umum.
-• Cetak Buku Yasin (Beta): Fitur premium untuk mencetak Buku Yasin berhalaman ganda lengkap dengan foto cover dan teks Arab otomatis!
-• Simpan Ke Galeri (HD): Undangan PDF kini bisa langsung disimpan sebagai gambar PNG berkualitas tinggi (anti-blank hitam) untuk langsung diposting ke WA/IG.
-• Logo Inisial Otomatis: Khusus Walimatul Ursy, inisial nama mempelai akan otomatis menjadi logo monogram elegan di atas undangan jika tanpa foto.
-• Performa Stabil: 100% bersih dari bug dan warning, aplikasi jauh lebih ringan dan mulus.
+⚠️ PENTING (BACA DULU):
+Karena adanya peningkatan keamanan sistem (Perubahan Sertifikat JKS), Anda WAJIB MENGHAPUS (UNINSTALL) aplikasi Yasin Tahlil versi lama terlebih dahulu sebelum menginstal versi baru ini agar tidak terjadi error "Aplikasi Tidak Terinstal".
 
-Update sekarang dan rasakan pengalaman menjadi juragan percetakan digital dari genggamanmu!
+Apa yang baru di Edisi Sultan ini?
+• UI Glassmorphism (Efek Kaca): Tampilan aplikasi kini tembus pandang dan mewah, memberikan kesan premium kelas atas.
+• 3 Tema Eksotis: Ganti suasana hatimu dengan Mode Emerald (Hijau), Sapphire (Biru Gelap), dan Senja Nusantara (Orange Gelap).
+• Perbaikan Notifikasi Adzan (Release Mode): Sekarang Adzan akan tetap berkumandang tepat waktu meskipun dalam mode rilis/hemat baterai.
+• GPS Maps Camera Pro: Dokumentasi kegiatan dengan watermark lokasi yang jauh lebih stabil dan jernih.
+• Performa Sat-set: Optimalisasi kode yang membuat transisi antar halaman sehalus sutra.
+
+Update sekarang dan rasakan pengalaman ibadah dengan tampilan yang memanjakan mata!
 </description>
-<pubDate>Fri, 13 Mar 2026 20:00:00 +0700</pubDate>
+<pubDate>Sun, 15 Mar 2026 06:00:00 +0700</pubDate>
 <enclosure 
 url="https://github.com/Yusuf-Ardiansyah/Yasin-Tahlil-Release/releases/latest/download/app-arm64-v8a-release.apk" 
-sparkle:version="1.7.0+20" 
+sparkle:version="1.8.0+21" 
 sparkle:os="android" 
 type="application/vnd.android.package-archive" />
 </item>
