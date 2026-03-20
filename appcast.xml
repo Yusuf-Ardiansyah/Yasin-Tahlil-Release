@@ -3,26 +3,26 @@
 <channel>
 <title>Yasin Tahlil Update</title>
 <item>
-<title>🚀 V1.8.0 - EDISI SULTAN: SENJA &amp; KACA PREMIUM</title>
+<title>🚀 V1.9.0 - EDISI SULTAN: NOTIFIKASI SATU BARIS &amp; BEBAS SWIPE</title>
 <description>
-ALHAMDULILLAH, VERSI 1.8.0+21 TELAH HADIR DENGAN TAMPILAN MEWAH SULTAN!
+ALHAMDULILLAH, VERSI 1.9.0+22 RESMI MENDARAT DENGAN OPTIMALISASI NOTIFIKASI TERBAIK!
 
-⚠️ PENTING (BACA DULU):
-Karena adanya peningkatan keamanan sistem (Perubahan Sertifikat JKS), Anda WAJIB MENGHAPUS (UNINSTALL) aplikasi Yasin Tahlil versi lama terlebih dahulu sebelum menginstal versi baru ini agar tidak terjadi error "Aplikasi Tidak Terinstal".
+⚠️ PENTING (INSTRUKSI SULTAN):
+Sangat disarankan untuk MENGHAPUS (UNINSTALL) versi lama terlebih dahulu agar database alarm dan cache notifikasi lama dibersihkan total oleh sistem Android, sehingga fitur baru berjalan 100% sempurna.
 
-Apa yang baru di Edisi Sultan ini?
-• UI Glassmorphism (Efek Kaca): Tampilan aplikasi kini tembus pandang dan mewah, memberikan kesan premium kelas atas.
-• 3 Tema Eksotis: Ganti suasana hatimu dengan Mode Emerald (Hijau), Sapphire (Biru Gelap), dan Senja Nusantara (Orange Gelap).
-• Perbaikan Notifikasi Adzan (Release Mode): Sekarang Adzan akan tetap berkumandang tepat waktu meskipun dalam mode rilis/hemat baterai.
-• GPS Maps Camera Pro: Dokumentasi kegiatan dengan watermark lokasi yang jauh lebih stabil dan jernih.
-• Performa Sat-set: Optimalisasi kode yang membuat transisi antar halaman sehalus sutra.
+Apa yang baru di Versi 1.9.0 ini?
+• Notifikasi Adzan Satu Baris: Tampilan notifikasi kini jauh lebih rapi, minimalis, dan mewah dalam satu baris informasi saja.
+• Fitur Bebas Swipe: Notifikasi Adzan kini bisa dihapus (swipe) secara manual setelah berkumandang, menjaga laci notifikasi Anda tetap bersih.
+• Radar Wilayah Lengkap: Informasi lokasi pada notifikasi kini tampil lebih mendalam (Kecamatan, Kota, hingga Provinsi) sesuai titik GPS akurat.
+• Anti-Ganda (No Duplicate): Perbaikan algoritma yang mencegah notifikasi muncul bertumpuk/dobel pada jam yang sama.
+• Optimalisasi Background Service: Mesin penjadwal otomatis 7 hari kini lebih cerdas dan hemat baterai tanpa mengurangi akurasi waktu sholat.
 
-Update sekarang dan rasakan pengalaman ibadah dengan tampilan yang memanjakan mata!
+Update sekarang untuk pengalaman notifikasi ibadah yang lebih elegan dan berwibawa!
 </description>
-<pubDate>Sun, 15 Mar 2026 06:00:00 +0700</pubDate>
+<pubDate>Sat, 21 Mar 2026 02:28:00 +0700</pubDate>
 <enclosure 
 url="https://github.com/Yusuf-Ardiansyah/Yasin-Tahlil-Release/releases/latest/download/app-arm64-v8a-release.apk" 
-sparkle:version="1.8.0+21" 
+sparkle:version="1.9.0+22" 
 sparkle:os="android" 
 type="application/vnd.android.package-archive" />
 </item>
