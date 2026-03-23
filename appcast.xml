@@ -3,26 +3,24 @@
 <channel>
 <title>Yasin Tahlil Update</title>
 <item>
-<title>🚀 V1.9.0 - EDISI SULTAN: NOTIFIKASI SATU BARIS &amp; BEBAS SWIPE</title>
+<title>🚀 V1.9.1 - EDISI PRESISI: CETAK UNDANGAN PDF 1000% SEMPURNA</title>
 <description>
-ALHAMDULILLAH, VERSI 1.9.0+22 RESMI MENDARAT DENGAN OPTIMALISASI NOTIFIKASI TERBAIK!
+ALHAMDULILLAH, VERSI 1.9.1+23 KINI HADIR MEMBAWA KESEMPURNAAN FITUR CETAK UNDANGAN!
 
-⚠️ PENTING (INSTRUKSI SULTAN):
-Sangat disarankan untuk MENGHAPUS (UNINSTALL) versi lama terlebih dahulu agar database alarm dan cache notifikasi lama dibersihkan total oleh sistem Android, sehingga fitur baru berjalan 100% sempurna.
+Terima kasih atas masukan pengguna setia kami. Pada pembaruan ini, kami memfokuskan perbaikan estetika dan presisi pada generator PDF Undangan Anda.
 
-Apa yang baru di Versi 1.9.0 ini?
-• Notifikasi Adzan Satu Baris: Tampilan notifikasi kini jauh lebih rapi, minimalis, dan mewah dalam satu baris informasi saja.
-• Fitur Bebas Swipe: Notifikasi Adzan kini bisa dihapus (swipe) secara manual setelah berkumandang, menjaga laci notifikasi Anda tetap bersih.
-• Radar Wilayah Lengkap: Informasi lokasi pada notifikasi kini tampil lebih mendalam (Kecamatan, Kota, hingga Provinsi) sesuai titik GPS akurat.
-• Anti-Ganda (No Duplicate): Perbaikan algoritma yang mencegah notifikasi muncul bertumpuk/dobel pada jam yang sama.
-• Optimalisasi Background Service: Mesin penjadwal otomatis 7 hari kini lebih cerdas dan hemat baterai tanpa mengurangi akurasi waktu sholat.
+Apa yang baru di Versi 1.9.1 ini?
+• Resolusi Layout Fotokopi (Hitam Putih): Rombak total tata letak! Foto dan inisial kini rapi di kiri atas. Tidak ada lagi teks "Wassalamu'alaikum" atau "Hormat Kami" yang terpotong di bagian bawah.
+• QR Code Cerdas &amp; Elegan: Posisi QR Code Maps kini melayang manis di pojok kanan bawah pada semua tema, tanpa menggeser atau menabrak susunan teks utama.
+• Presisi Tingkat Dewa: Posisi teks, margin, dan jarak antar elemen (spacing) telah dipoles habis-habisan untuk hasil cetak PDF yang lebih simetris, rapi, dan profesional.
+• Optimasi Core &amp; Anti-Bug: Pembaruan komponen *under-the-hood* dan pembersihan kode usang membuat proses pembuatan undangan menjadi lebih cepat, ringan, dan anti-error.
 
-Update sekarang untuk pengalaman notifikasi ibadah yang lebih elegan dan berwibawa!
+Update sekarang untuk pengalaman membuat dan mencetak undangan yang presisi, rapi, dan mantap jiwa!
 </description>
-<pubDate>Sat, 21 Mar 2026 02:28:00 +0700</pubDate>
+<pubDate>Mon, 23 Mar 2026 20:45:00 +0700</pubDate>
 <enclosure 
 url="https://github.com/Yusuf-Ardiansyah/Yasin-Tahlil-Release/releases/latest/download/app-arm64-v8a-release.apk" 
-sparkle:version="1.9.0+22" 
+sparkle:version="1.9.1+23" 
 sparkle:os="android" 
 type="application/vnd.android.package-archive" />
 </item>
