@@ -1,20 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-<channel>
-<title>Yasin Tahlil Update</title>
-<item>
-<title>🚀 V1.9.1 - EDISI PRESISI: CETAK UNDANGAN PDF 1000% SEMPURNA</title>
-<description>
-Pada pembaruan ini, kami memfokuskan perbaikan estetika dan presisi pada generator PDF Undangan Anda agar 1000% SEMPURNA.
+  <channel>
+    <title>Yasin Tahlil Update</title>
+    <item>
+      <title>🚀 V1.9.2 - UPDATE SULTAN: ISTIGHOSAH AKBAR &amp; BACAAN PELANGI</title>
+      <description>
+Alhamdulillah, pembaruan spesial untuk menyempurnakan ibadah Anda telah hadir!
 
-Update sekarang untuk pengalaman membuat dan mencetak undangan yang presisi, rapi, dan mantap jiwa!
-</description>
-<pubDate>Mon, 23 Mar 2026 20:45:00 +0700</pubDate>
-<enclosure 
-url="https://github.com/Yusuf-Ardiansyah/Yasin-Tahlil-Release/releases/latest/download/app-arm64-v8a-release.apk" 
-sparkle:version="1.9.1+23" 
-sparkle:os="android" 
-type="application/vnd.android.package-archive" />
-</item>
-</channel>
+✨ FITUR BARU &amp; PENINGKATAN:
+1. Menu Baru: Tambahan "Istighosah Akbar" berstandar NU lengkap dengan UI Kaca Murni &amp; Mode Kitab Kuning.
+2. Audio Karaoke Pelangi: Teks Arab kini menyala warna-warni secara presisi mengikuti irama murattal pada bacaan Surah Yasin dan Al-Waqiah.
+3. Optimasi Sultan: Peningkatan fitur Mode Hemat Baterai (Power Saving) yang lebih cerdas. Ngaji berjam-jam, HP dijamin tetap adem dan irit!
+
+Update sekarang untuk pengalaman ibadah yang lebih khusyuk, indah dipandang, dan tentunya ramah baterai!
+      </description>
+      <pubDate>Thu, 26 Mar 2026 09:30:00 +0700</pubDate>
+      <enclosure 
+        url="https://github.com/Yusuf-Ardiansyah/Yasin-Tahlil-Release/releases/latest/download/app-arm64-v8a-release.apk" 
+        sparkle:version="1.9.2+24" 
+        sparkle:os="android" 
+        type="application/vnd.android.package-archive" />
+    </item>
+  </channel>
 </rss>
