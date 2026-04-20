@@ -3,22 +3,22 @@
   <channel>
     <title>Yasin Tahlil Update</title>
     <item>
-      <title>💎 V1.9.3 - UPDATE SULTAN: CLOUD SYNC &amp; LOKASI PRESISI</title>
+      <title>💎 V1.9.4 - UPDATE SULTAN: BENTENG JALUR LANGIT &amp; KEAMANAN MUTLAK</title>
       <description>
-Alhamdulillah, pembaruan V1.9.3 telah hadir dengan sistem keamanan dan kenyamanan tingkat tinggi!
+Alhamdulillah, pembaruan V1.9.4 telah mendarat! Ini adalah update keamanan terbesar yang pernah ada untuk melindungi privasi dan pengalaman ibadah Anda.
 
 ✨ APA YANG BARU DI VERSI INI?
-1. 🔐 SULTAN CLOUD LOGIN: Simpan daftar Almarhum (Hadloroh) dan data ibadah Anda dengan aman melalui Akun Google. Ganti HP? Data tetap aman di awan!
-2. 📍 LOKASI SUPER PRESISI: Teks berjalan kini menampilkan detail alamat hingga RT/RW dan Kode Pos secara akurat untuk memudahkan pencarian masjid terdekat.
-3. 🎨 UI REFINEMENT: Perbaikan tampilan Dashboard yang lebih rapi, tombol gembok yang lebih elegan, dan penyelarasan 3 Tema Utama (Hijau, Coklat, Biru) di seluruh halaman.
-4. 🚀 TURBO PERFORMANCE: Optimasi kodingan menggunakan ValueNotifier. Navigasi lebih gesit, scroll lebih mulus, dan konsumsi RAM jauh lebih irit!
+1. 🛡️ BENTENG JALUR LANGIT (Play Integrity): Keamanan server tingkat militer! Aplikasi kini dilindungi langsung oleh sistem Google untuk mencegah modifikasi pihak ketiga (Anti-Mod/Anti-Repack). Data Anda 100% aman!
+2. ⚡ OPTIMASI KONEKSI FIREBASE: Sinkronisasi data daftar Almarhum kini lebih cepat, stabil, dan terenkripsi penuh.
+3. ⚙️ PERBAIKAN BUG &amp; PERFORMA: Penyesuaian core engine agar aplikasi berjalan lebih ringan, mulus, dan irit baterai di semua HP Android terbaru.
+4. 🛡️ SISTEM ANTI-BAJAKAN TERBARU: Memastikan aplikasi yang Anda gunakan adalah 100% asli dan resmi demi kenyamanan ibadah yang berkah.
 
-Update sekarang untuk menikmati sinkronisasi data ibadah yang aman dan tampilan lokasi yang lebih informatif!
+⚠️ PENTING: Mohon segera lakukan update untuk mencegah aplikasi Anda terblokir dari server utama dan agar sinkronisasi Cloud tetap berjalan lancar!
       </description>
-      <pubDate>Sat, 28 Mar 2026 15:30:00 +0700</pubDate>
+      <pubDate>Mon, 20 Apr 2026 15:00:00 +0700</pubDate>
       <enclosure 
         url="https://github.com/Yusuf-Ardiansyah/Yasin-Tahlil-Release/releases/latest/download/app-arm64-v8a-release.apk" 
-        sparkle:version="1.9.3+25" 
+        sparkle:version="1.9.4+26" 
         sparkle:os="android" 
         type="application/vnd.android.package-archive" />
     </item>
