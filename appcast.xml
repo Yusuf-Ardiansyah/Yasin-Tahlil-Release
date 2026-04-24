@@ -3,22 +3,22 @@
   <channel>
     <title>Yasin Tahlil Update</title>
     <item>
-      <title>💎 V1.9.5 - UPDATE SULTAN: BENTENG JALUR LANGIT &amp; OPTIMASI TOTAL</title>
+      <title>👑 V1.9.6 - EDISI SULTAN: AL-QURAN 30 JUZ &amp; GLASS EMERALD UI</title>
       <description>
-Alhamdulillah, pembaruan V1.9.5 telah mendarat! Ini adalah update keamanan dan performa terbesar untuk pengalaman ibadah yang lebih khidmat.
+Alhamdulillah, Update Terbesar Edisi Sultan telah Rilis! Nikmati fitur premium untuk ibadah yang lebih nyaman.
 
-✨ APA YANG BARU DI VERSI INI?
-1. 🛡️ BENTENG JALUR LANGIT (Play Integrity): Perlindungan mutlak dari Google untuk memastikan aplikasi Anda 100% aman dan asli.
-2. 🚀 ENGINE SULTAN OPTIMIZED: Perbaikan core pada Firebase Messaging dan Performance Monitoring agar app lebih responsif.
-3. ⚡ SUPER STABLE NOTIFICATION: Notifikasi Adzan dan pesan Sultan kini lebih akurat menembus mode hemat baterai.
-4. ⚙️ CLEANING SYSTEM: Pembersihan cache otomatis untuk menjaga ruang penyimpanan HP Anda tetap lega.
+✨ FITUR UNGGULAN VERSI 1.9.6:
+1. 📖 FULL AL-QURAN 30 JUZ: Akses lengkap seluruh surah dan juz langsung di dalam satu aplikasi.
+2. 💎 GLASS EMERALD UI: Desain navigasi baru bertema Zamrud Emas yang lebih mewah dan elegan.
+3. ⚡ SMOOTH NAVIGATION: Optimasi performa perpindahan halaman dan tab yang jauh lebih ringan.
+4. 🛠️ CLEAN CORE: Pembersihan sistem dari file sampah node_modules dan optimasi memori total.
 
-⚠️ PENTING: Segera update ke versi 1.9.5 untuk menikmati fitur keamanan terbaru dan sinkronisasi Cloud yang lebih stabil!
+Segera update untuk merasakan sensasi aplikasi ibadah kelas Sultan!
       </description>
-      <pubDate>Thu, 23 Apr 2026 01:45:00 +0700</pubDate>
+      <pubDate>Fri, 24 Apr 2026 14:15:00 +0700</pubDate>
       <enclosure 
         url="https://github.com/Yusuf-Ardiansyah/Yasin-Tahlil-Release/releases/latest/download/app-arm64-v8a-release.apk" 
-        sparkle:version="1.9.5+27" 
+        sparkle:version="1.9.6+28" 
         sparkle:os="android" 
         type="application/vnd.android.package-archive" />
     </item>
