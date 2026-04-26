@@ -3,22 +3,22 @@
   <channel>
     <title>Yasin Tahlil Update</title>
     <item>
-      <title>👑 V1.9.6 - EDISI SULTAN: AL-QURAN 30 JUZ &amp; GLASS EMERALD UI</title>
+      <title>👑 V1.9.7 - EDISI SULTAN: PERFORMA SAT-SET &amp; PENYEMPURNAAN EMERALD UI</title>
       <description>
-Alhamdulillah, Update Terbesar Edisi Sultan telah Rilis! Nikmati fitur premium untuk ibadah yang lebih nyaman.
+Alhamdulillah, Update V1.9.7 Edisi Sultan telah hadir! Membawa performa kilat dan visual yang makin elegan untuk kenyamanan ibadah Anda.
 
-✨ FITUR UNGGULAN VERSI 1.9.6:
-1. 📖 FULL AL-QURAN 30 JUZ: Akses lengkap seluruh surah dan juz langsung di dalam satu aplikasi.
-2. 💎 GLASS EMERALD UI: Desain navigasi baru bertema Zamrud Emas yang lebih mewah dan elegan.
-3. ⚡ SMOOTH NAVIGATION: Optimasi performa perpindahan halaman dan tab yang jauh lebih ringan.
-4. 🛠️ CLEAN CORE: Pembersihan sistem dari file sampah node_modules dan optimasi memori total.
+✨ YANG BARU DI VERSI 1.9.7:
+1. ⚡ PERFORMA SUPER SAT-SET: Teknologi mesin baru membuat proses membuka Al-Quran dan Juz jauh lebih cepat tanpa lag (0.0 detik).
+2. 🎯 NAVIGASI AKURAT 100%: Melompat ke Ayat Terakhir Dibaca atau Bookmark kini mendarat dengan sangat presisi dan instan.
+3. 💎 PENYEMPURNAAN TEMA EMERALD: Warna pop-up Pengaturan Bacaan dan Kumpulan Doa kini menyatu elegan dengan nuansa Hijau Zamrud khas Sultan.
+4. 🪶 APK SUPER RINGAN &amp; BERSIH: Optimalisasi memori tingkat tinggi, ukuran aplikasi lebih ramping, dan dijamin 100% murni tanpa iklan (Ads-Free).
 
-Segera update untuk merasakan sensasi aplikasi ibadah kelas Sultan!
+Segera update untuk merasakan pengalaman ibadah yang lebih khusyuk, lancar, dan nyaman!
       </description>
-      <pubDate>Fri, 24 Apr 2026 14:15:00 +0700</pubDate>
+      <pubDate>Sun, 26 Apr 2026 12:30:00 +0700</pubDate>
       <enclosure 
         url="https://github.com/Yusuf-Ardiansyah/Yasin-Tahlil-Release/releases/latest/download/app-arm64-v8a-release.apk" 
-        sparkle:version="1.9.6+28" 
+        sparkle:version="1.9.7+29" 
         sparkle:os="android" 
         type="application/vnd.android.package-archive" />
     </item>
