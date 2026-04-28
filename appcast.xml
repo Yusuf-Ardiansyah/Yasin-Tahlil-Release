@@ -3,22 +3,22 @@
   <channel>
     <title>Yasin Tahlil Update</title>
     <item>
-      <title>👑 V1.9.7 - EDISI SULTAN: PERFORMA SAT-SET &amp; PENYEMPURNAAN EMERALD UI</title>
+      <title>👑 V1.9.8 - EDISI SULTAN CLOUD: KEAMANAN TINGKAT DEWA &amp; HYBRID PERFORMA SAT-SET</title>
       <description>
-Alhamdulillah, Update V1.9.7 Edisi Sultan telah hadir! Membawa performa kilat dan visual yang makin elegan untuk kenyamanan ibadah Anda.
+Alhamdulillah, Update V1.9.8 Edisi Sultan Cloud telah hadir! Pembaruan arsitektur terbesar yang membawa aplikasi ini ke level standar industri profesional untuk kenyamanan ibadah Anda.
 
-✨ YANG BARU DI VERSI 1.9.7:
-1. ⚡ PERFORMA SUPER SAT-SET: Teknologi mesin baru membuat proses membuka Al-Quran dan Juz jauh lebih cepat tanpa lag (0.0 detik).
-2. 🎯 NAVIGASI AKURAT 100%: Melompat ke Ayat Terakhir Dibaca atau Bookmark kini mendarat dengan sangat presisi dan instan.
-3. 💎 PENYEMPURNAAN TEMA EMERALD: Warna pop-up Pengaturan Bacaan dan Kumpulan Doa kini menyatu elegan dengan nuansa Hijau Zamrud khas Sultan.
-4. 🪶 APK SUPER RINGAN &amp; BERSIH: Optimalisasi memori tingkat tinggi, ukuran aplikasi lebih ramping, dan dijamin 100% murni tanpa iklan (Ads-Free).
+✨ YANG BARU DI VERSI 1.9.8:
+1. ☁️ SULTAN CLOUD INTEGRATION: Fitur Premium (Weton, Selamatan, Primbon Tani, Faraid, Cetak Yasin) kini terhubung langsung ke awan. Data tersimpan eksklusif, terpusat, dan tidak membebani memori internal HP Anda.
+2. 🛡️ KEAMANAN TINGKAT MILITER (99.9%): Dilengkapi sistem anti-kloning, enkripsi mutakhir, dan pengamanan akses (Wajib Login) untuk melindungi stabilitas aplikasi dan privasi pengguna.
+3. ⚡ HYBRID MODE (OFFLINE &amp; ONLINE): Jangan khawatir hilang sinyal! Surah Yasin, Tahlil, dan Al-Quran tetap 100% OFFLINE agar lancar dibaca di makam atau pelosok.
+4. 🧹 RAM LEBIH LEGA &amp; MAKIN SAT-SET: Pembersihan total cache dan file tak terpakai membuat aplikasi semakin langsing, responsif, dan tetap 100% Bebas Iklan (Ads-Free).
 
-Segera update untuk merasakan pengalaman ibadah yang lebih khusyuk, lancar, dan nyaman!
+Segera update untuk merasakan pengalaman arsitektur kelas atas yang lebih aman, ringan, dan elegan!
       </description>
-      <pubDate>Sun, 26 Apr 2026 12:30:00 +0700</pubDate>
+      <pubDate>Wed, 29 Apr 2026 01:00:00 +0700</pubDate>
       <enclosure 
         url="https://github.com/Yusuf-Ardiansyah/Yasin-Tahlil-Release/releases/latest/download/app-arm64-v8a-release.apk" 
-        sparkle:version="1.9.7+29" 
+        sparkle:version="1.9.8+30" 
         sparkle:os="android" 
         type="application/vnd.android.package-archive" />
     </item>
