@@ -3,22 +3,22 @@
   <channel>
     <title>Yasin Tahlil Update</title>
     <item>
-      <title>👑 V1.9.8 - EDISI SULTAN CLOUD: KEAMANAN TINGKAT DEWA &amp; HYBRID PERFORMA SAT-SET</title>
+      <title>👑 V2.0.0 - EDISI SULTAN CLOUD: LIVE GPS CAMERA &amp; PERFORMA SUPER SAT-SET</title>
       <description>
-Alhamdulillah, Update V1.9.8 Edisi Sultan Cloud telah hadir! Pembaruan arsitektur terbesar yang membawa aplikasi ini ke level standar industri profesional untuk kenyamanan ibadah Anda.
+Alhamdulillah, Update V2.0.0 (Major Update) Edisi Sultan telah hadir! Pembaruan besar-besaran dengan fitur eksklusif dan performa yang makin enteng.
 
-✨ YANG BARU DI VERSI 1.9.8:
-1. ☁️ SULTAN CLOUD INTEGRATION: Fitur Premium (Weton, Selamatan, Primbon Tani, Faraid, Cetak Yasin) kini terhubung langsung ke awan. Data tersimpan eksklusif, terpusat, dan tidak membebani memori internal HP Anda.
-2. 🛡️ KEAMANAN TINGKAT MILITER (99.9%): Dilengkapi sistem anti-kloning, enkripsi mutakhir, dan pengamanan akses (Wajib Login) untuk melindungi stabilitas aplikasi dan privasi pengguna.
-3. ⚡ HYBRID MODE (OFFLINE &amp; ONLINE): Jangan khawatir hilang sinyal! Surah Yasin, Tahlil, dan Al-Quran tetap 100% OFFLINE agar lancar dibaca di makam atau pelosok.
-4. 🧹 RAM LEBIH LEGA &amp; MAKIN SAT-SET: Pembersihan total cache dan file tak terpakai membuat aplikasi semakin langsing, responsif, dan tetap 100% Bebas Iklan (Ads-Free).
+✨ YANG BARU DI VERSI 2.0.0:
+1. 🗺️ LIVE SATELLITE GPS CAMERA: Fitur dokumentasi mutakhir dengan mini-map satelit sungguhan (OpenStreetMap) yang melacak posisi Anda secara real-time! Terdapat indikator koordinat, cuaca, dan elevasi.
+2. 🚀 PERFORMA SUPER SAT-SET: Rombak ulang sistem UI. Mode Hemat Energi kini 100% membebaskan GPU dari beban render kaca, membuat aplikasi sedingin es dan sangat responsif tanpa lag.
+3. ☁️ SULTAN CLOUD &amp; AUTH V7: Sistem login Google terbaru (Versi 7+) yang lebih cepat, presisi, dan terbebas dari bug keamanan. Integrasi data ke awan semakin kokoh.
+4. 🥚 SECRET EASTER EGG: Kejutan khusus untuk para pengguna setia. Temukan mode rahasia dengan mengetuk foto developer di Menu Utama!
 
-Segera update untuk merasakan pengalaman arsitektur kelas atas yang lebih aman, ringan, dan elegan!
+Segera update untuk merasakan pengalaman arsitektur kelas atas yang lebih canggih, ringan, dan tetap 100% Bebas Iklan (Ads-Free)!
       </description>
-      <pubDate>Wed, 29 Apr 2026 01:00:00 +0700</pubDate>
+      <pubDate>Thu, 30 Apr 2026 17:00:00 +0700</pubDate>
       <enclosure 
         url="https://github.com/Yusuf-Ardiansyah/Yasin-Tahlil-Release/releases/latest/download/app-arm64-v8a-release.apk" 
-        sparkle:version="1.9.8+30" 
+        sparkle:version="2.0.0+31" 
         sparkle:os="android" 
         type="application/vnd.android.package-archive" />
     </item>
