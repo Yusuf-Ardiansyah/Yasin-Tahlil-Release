@@ -3,18 +3,19 @@
   <channel>
     <title>Yasin Tahlil Update</title>
     <item>
-      <title>👑 V2.0.0 - EDISI SULTAN CLOUD: LIVE GPS CAMERA &amp; PERFORMA SUPER SAT-SET</title>
+      <title> V2.0.1 - EDISI SULTAN: AUDIO OFFLINE &amp; TRIPLE NEON GLOW</title>
       <description>
-Update V2.0.0 
+Update V2.0.1 
 
-✨ YANG BARU DI VERSI 2.0.0:
-LIVE SATELLITE GPS CAMERA: Fitur dokumentasi mutakhir dengan mini-map satelit sungguhan (OpenStreetMap) yang melacak posisi Anda secara real-time! Terdapat indikator koordinat, cuaca, dan elevasi.
-
+ YANG BARU DI VERSI 2.0.1:
+-  AUDIO OFFLINE SULTAN: Fitur Persistent Cache pintar! Download audio murottal cukup 1x seumur hidup. Dengarkan secara offline tanpa menyedot kuota, tanpa buffering, dan super sat-set!
+-  EFEK TRIPLE NEON GLOW: Sensasi membaca Al-Quran paling mewah! Teks ayat dilengkapi efek pendaran cahaya neon (Neon Sharp) presisi tinggi yang menyala elegan tanpa merusak ketajaman dan keindahan khat LPMQ Kemenag.
+-  PRESISI AL-FATIHAH &amp; HARAKAT: Perbaikan total data sinkronisasi waktu dan teks Arab. Huruf dan harakat kini 1000% sempurna dan sinkron dengan lantunan Syekh.
       </description>
-      <pubDate>Thu, 30 Apr 2026 17:00:00 +0700</pubDate>
+      <pubDate>Wed, 06 May 2026 14:40:00 +0700</pubDate>
       <enclosure 
         url="https://github.com/Yusuf-Ardiansyah/Yasin-Tahlil-Release/releases/latest/download/app-arm64-v8a-release.apk" 
-        sparkle:version="2.0.0+31" 
+        sparkle:version="2.0.1+32" 
         sparkle:os="android" 
         type="application/vnd.android.package-archive" />
     </item>
