@@ -3,19 +3,18 @@
   <channel>
     <title>Yasin Tahlil Update</title>
     <item>
-      <title> V2.0.1 - EDISI SULTAN: AUDIO OFFLINE &amp; TRIPLE NEON GLOW</title>
+      <title>✨ V2.0.2 - EDISI SULTAN: HYBRID AUDIO &amp; GERBANG KEMULIAAN</title>
       <description>
-Update V2.0.1 
+Update V2.0.2 
 
- YANG BARU DI VERSI 2.0.1:
--  AUDIO OFFLINE SULTAN: Fitur Persistent Cache pintar! Download audio murottal cukup 1x seumur hidup. Dengarkan secara offline tanpa menyedot kuota, tanpa buffering, dan super sat-set!
--  EFEK TRIPLE NEON GLOW: Sensasi membaca Al-Quran paling mewah! Teks ayat dilengkapi efek pendaran cahaya neon (Neon Sharp) presisi tinggi yang menyala elegan tanpa merusak ketajaman dan keindahan khat LPMQ Kemenag.
--  PRESISI AL-FATIHAH &amp; HARAKAT: Perbaikan total data sinkronisasi waktu dan teks Arab. Huruf dan harakat kini 1000% sempurna dan sinkron dengan lantunan Syekh.
+YANG BARU DI VERSI 2.0.2:
+-  ARSITEKTUR HYBRID AUDIO: Mesin audio dirombak total memadukan kekuatan 'just_audio' dan 'audioplayers'. Auto-scroll dan auto-play Surat Yasin &amp; Tahlil kini mengalir sehalus sutra, tanpa jeda, tanpa loncat ayat!
+-  GERBANG LOGIN SULTAN: Selamat tinggal notifikasi kaku! Nikmati sambutan Google Login berupa Pop-Up Dialog eksklusif berbingkai emas, lengkap dengan sapaan nama Anda dalam pendaran Hijau Stabilo yang menyala.
       </description>
-      <pubDate>Wed, 06 May 2026 14:40:00 +0700</pubDate>
+      <pubDate>Fri, 08 May 2026 01:00:00 +0700</pubDate>
       <enclosure 
         url="https://github.com/Yusuf-Ardiansyah/Yasin-Tahlil-Release/releases/latest/download/app-arm64-v8a-release.apk" 
-        sparkle:version="2.0.1+32" 
+        sparkle:version="2.0.2+33" 
         sparkle:os="android" 
         type="application/vnd.android.package-archive" />
     </item>
